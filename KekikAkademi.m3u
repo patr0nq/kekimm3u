@@ -1,63 +1,7 @@
- #EXTM3U
+#EXTM3U
+# * » TRT « * #
+#EXTINF:-1 tvg-name="Meclis TV" tvg-language="Turkish" tvg-country="TR" tvg-id="TBMM" tvg-logo="https://seeklogo.com/images/T/tbmm-logo-9FB0F2818C-seeklogo.com.png" group-title="TRT",Meclis TV
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
- # * » TRT « * #
- #EXTINF:-1 tvg-name="Meclis TV" tvg-language="Turkish" tvg-country="TR" tvg-id="TBMM" tvg-logo="https://seeklogo.com/images/T/tbmm-logo-9FB0F2818C-seeklogo.com.png" group-title="TRT",Meclis TV
- https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
-
- #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="TRT",TRT 1
- https://tv-trt1.medya.trt.com.tr/master.m3u8
-
- #EXTINF:-1 tvg-name="TRT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_2" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027954.png" group-title="TRT",TRT 2
- https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-
- #EXTINF:-1 tvg-name="TRT Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_Turk" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11787778.png" group-title="TRT",TRT Türk
- https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-
- #EXTINF:-1 tvg-name="TRT Avaz" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_Avaz" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027789.png" group-title="TRT",TRT Avaz
- https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-
- #EXTINF:-1 tvg-name="TRT Kürdi" tvg-language="Kurdish" tvg-country="IR" tvg-id="TRT_Kurdi" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/14812637.png" group-title="TRT",TRT Kürdi
- https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
-
- #EXTINF:-1 tvg-name="TRT Arabi" tvg-language="Arabic" tvg-country="SA" tvg-id="TRT_Arabi" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027905.png" group-title="TRT",TRT Arabi
- https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
-
- #EXTINF:-1 tvg-name="TRT World" tvg-language="English" tvg-country="USA" tvg-id="TRT_World" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7834584.png" group-title="TRT",TRT World
- https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
-
-
-
- # * » Haber « * #
- #EXTINF:-1 tvg-name="TRT Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png" group-title="Haber",TRT Haber
- https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-
- #EXTINF:-1 tvg-name="Haber Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HaberTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216" group-title="Haber",Haber Türk
- http://stream.tvcdn.net/haber/haberturk.m3u8
- # ? https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
-
- #EXTINF:-1 tvg-name="CNN Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_CNNTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500" group-title="Haber",CNN Türk
- http://stream.tvcdn.net/haber/cnn-turk.m3u8
- # ? https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
-
- #EXTINF:-1 tvg-name="NTV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_NTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264" group-title="Haber",NTV
- https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
-
- #EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber
- http://stream.tvcdn.net/haber/a-haber.m3u8
- # ? https://ythls.kekikakademi.org/youtube/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
-
- #EXTINF:-1 tvg-name="Haber Global" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HaberGlobal" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa" group-title="Haber",Haber Global
- https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-
- #EXTINF:-1 tvg-name="Kanal 24" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_Kanal24" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed" group-title="Haber",Kanal 24
- https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-
- #EXTINF:-1 tvg-name="Ulusal Kanal" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_UlusalKanal" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603c1580866ac31704a99333" group-title="Haber",Ulusal Kanal
- https://canlitvulusal3.xyz/live/ulusalkanal/index.m3u8
-# # ? https://ythls.kekikakademi.org/youtube/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
-
- #EXTINF:-1 tvg-name="TV 100" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TV100" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60420fa5866ac32430025edd" group-title="Haber",TV 100
- https://tv100.blutv.com/blutv_tv100_live/live.m3u8
-
- #EXTINF:-1 tvg-name="Tele 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_Tele1" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60e54dfe866ac30fa0be7528" group-title="Haber",Tele 1
- http://stream.tvcdn.net/haber/tele-1.m3u8
+#EXTINF:-1 tvg-name="Tele 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_Tele1" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60e54dfe866ac30fa0be7528" group-title="Haber",Tele 1
+http://stream.tvcdn.net/haber/tele-1.m3u8
